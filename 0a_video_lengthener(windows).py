@@ -4,7 +4,7 @@ from PIL import Image
 import os, shutil
 
 
-PREFFERED_VIDEO_DURATION = 30
+PREFFERED_VIDEO_DURATION = 30   # In seconds
 DESTINATION_FOLDER_NAME = "New_Art"
 
 
